@@ -3,8 +3,7 @@ title: Contact
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+Siempre puede ponerse en contacto con el creador de este tema a través de [Instagram](https://www.instagram.com/).
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
 
 (Change this by editing `contact.md` file)

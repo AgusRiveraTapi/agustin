@@ -87,6 +87,7 @@ permalink: :slug
 social:
   twitter: YOUR_TWITTER
   github: YOUR_GITHUB
+  instagram: YOUR_INSTAGRAM
 
 plugins:
  - jekyll-feed
